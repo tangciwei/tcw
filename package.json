@@ -1,0 +1,22 @@
+{
+  "name": "tcw",
+  "version": "0.0.1",
+  "description": "我的个人工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangciwei/tcw.git"
+  },
+  "bin": {
+    "tcw": "bin/bin"
+  },
+  "author": "tangciwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangciwei/tcw/issues"
+  },
+  "homepage": "https://github.com/tangciwei/tcw#readme"
+}
